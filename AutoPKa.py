@@ -9,7 +9,7 @@ def multiply(l,b):
 		m *= l[i]
 	return m
 st = -20
-print("AutoPka Pro version 2021 Enhanced. For those who find acid-base chemistry boring. Author: David Huang")
+print("AutoPka. For those who find acid-base chemistry boring. Author: David Huang")
 print()
 Ka = []
 c = []
